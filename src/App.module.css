@@ -1,0 +1,23 @@
+
+
+
+.cont{
+    width: 80vw;
+    height:70vh;
+
+    border: 2px solid black;
+    min-width: 350px;
+    max-width: 400px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+    border-radius: 10px;
+    min-height: 550px;
+    max-height: 570px;
+
+}
+
+
